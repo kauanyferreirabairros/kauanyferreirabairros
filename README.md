@@ -1,9 +1,11 @@
 <h2 align="left">Seja bem vindo(a) meu GitHub!</h2>
 
 
+
 <div align="center">
   <img height="250" src="https://i.imgur.com/yuWw8V8.jpeg"  />
 </div>
+
 
 
 <div align="left">
@@ -13,7 +15,9 @@
 </div>
 
 
+
 <p align="left"></p>
+
 
 
 <br clear="both">
@@ -24,3 +28,4 @@
   </a>
 </div>
 
+###
